@@ -1,0 +1,19 @@
+# Do not include sensitive Data
+.zshrc-secrets
+
+# ZSH junk
+.zcompdump
+.zsh-update
+.histfile
+
+# Postgres
+/.pg*
+
+# History files
+/.*history
+
+# NixOS hardware-config
+.config/nix/hardware-configuration.nix
+
+# Kitty color configuration
+.config/kitty/color.conf
