@@ -30,7 +30,6 @@ NoiseStrength=0
 Meta=
 
 [NightColor]
-Active=true
 Mode=Times
 NightTemperature=1000
 
