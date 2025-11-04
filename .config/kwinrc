@@ -1,3 +1,6 @@
+[Activities][LastVirtualDesktop]
+69bf0f9f-dd32-430a-a541-1737a6b96b6c=6667111f-e992-4a68-8aaf-9ff9c43952eb
+
 [Desktops]
 Id_1=6667111f-e992-4a68-8aaf-9ff9c43952eb
 Id_10=27f1a204-1330-48e6-9969-e5e0a3bbdde6
@@ -65,3 +68,5 @@ Scale=1
 [org.kde.kdecoration2]
 BorderSizeAuto=false
 ButtonsOnRight=HAIX
+ShowToolTips=false
+theme=kwin4_decoration_qml_plastik
