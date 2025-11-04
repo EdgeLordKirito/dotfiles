@@ -1,3 +1,6 @@
 [user]
 	name = EdgeLordKirito
 	email = Leiteritz.till@gmail.com
+[core]
+	autocrlf = input
+	eol = lf
