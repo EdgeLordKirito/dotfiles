@@ -62,11 +62,15 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][4c85f5bb-4dcb-5bec-8433-5c0e6860d679]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][ed39b2a4-1e89-575d-8f80-864a4608c8f4]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Xwayland]
-Scale=1
+Scale=1.35
 
 [org.kde.kdecoration2]
 BorderSizeAuto=false
 ButtonsOnRight=HAIX
 ShowToolTips=false
+library=org.kde.kwin.aurorae
 theme=kwin4_decoration_qml_plastik
