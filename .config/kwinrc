@@ -1,5 +1,5 @@
 [Activities][LastVirtualDesktop]
-69bf0f9f-dd32-430a-a541-1737a6b96b6c=6667111f-e992-4a68-8aaf-9ff9c43952eb
+69bf0f9f-dd32-430a-a541-1737a6b96b6c=f693fc4e-d35b-44ae-b1ab-fd848648a760
 
 [Desktops]
 Id_1=6667111f-e992-4a68-8aaf-9ff9c43952eb
@@ -46,7 +46,6 @@ enableMonocleLayout=false
 enableQuarterLayout=true
 enableStairLayout=false
 enableThreeColumnLayout=false
-noTileBorder=true
 screenGapBottom=10
 screenGapLeft=10
 screenGapRight=10
