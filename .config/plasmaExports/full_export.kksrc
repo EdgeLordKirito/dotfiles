@@ -5,6 +5,16 @@ Name=wallpaper-rofi
 [kitty.desktop][Global Shortcuts]
 _launch=Meta+Return
 
+[ksmserver][Global Shortcuts]
+Halt Without Confirmation=
+Lock Session=Screensaver; Meta+Alt+L
+Log Out=Ctrl+Alt+Del
+Log Out Without Confirmation=
+LogOut=
+Reboot=
+Reboot Without Confirmation=
+Shut Down=
+
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Meta+Ctrl+A
 Cycle Overview=
