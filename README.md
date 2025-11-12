@@ -24,6 +24,13 @@ Press Import
 Custome Scheme
 And Import both file from .config/plasmaExports
 
+#### Set Capslock behaviour
+1. In Plasma Setting go to Keyboard Keybindings
+2. Set the Capslock behaviour to disabled
+3. Make the Capslock key the composite key
+
+
+
 Reboot
 
 sudo nixos-rebuild switch
