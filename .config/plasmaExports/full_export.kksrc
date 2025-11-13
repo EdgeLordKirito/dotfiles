@@ -1,13 +1,124 @@
+[ActivityManager][Global Shortcuts]
+switch-to-activity-69bf0f9f-dd32-430a-a541-1737a6b96b6c=
+
 [Custom Commands][net.local.wallpaper-rofi.sh.desktop]
-Exec=/home/edgelordkirito/.local/bin/wallpaper-rofi.sh
+Exec=/home/edgelordkirito/.local/bin/wallpaper-rofi.sh ~/Pictures/wallperpers
 Name=wallpaper-rofi
+
+[KDE Keyboard Layout Switcher][Global Shortcuts]
+Switch to Last-Used Keyboard Layout=
+Switch to Next Keyboard Layout=
+
+[StandardShortcuts]
+AboutApp=
+AboutKDE=
+Activate Next Tab=
+Activate Previous Tab=
+ActualSize=
+AddBookmark=
+Back=
+BackwardWord=
+Begin=
+BeginningOfLine=
+Clear=
+Close=
+ConfigureNotifications=
+ConfigureToolbars=
+Copy=Ctrl+C
+CreateFolder=
+Cut=Ctrl+X
+DeleteFile=
+DeleteWordBack=
+DeleteWordForward=
+Deselect=Ctrl+Shift+A
+DocumentBack=
+DocumentForward=
+Donate=
+EditBookmarks=
+End=
+EndOfLine=
+Find=Ctrl+F
+FindNext=F3
+FindPrev=Shift+F3
+FitToHeight=
+FitToPage=
+FitToWidth=
+Forward=
+ForwardWord=
+FullScreen=F11
+Goto=
+GotoLine=
+GotoPage=
+Help=
+Home=
+KeyBindings=
+Mail=
+MoveToTrash=Del
+New=
+Next=
+NextCompletion=
+Open=
+OpenContextMenu=
+OpenMainMenu=
+OpenRecent=
+Paste=Ctrl+V
+Paste Selection=
+Preferences=Ctrl+Shift+,
+PrevCompletion=
+Print=Ctrl+Print
+PrintPreview=
+Prior=
+Quit=
+Redo=Ctrl+Shift+Z
+Reload=F5; Refresh
+RenameFile=
+Replace=Ctrl+R
+ReportBug=
+Revert=Ctrl+Y
+RotateDown=
+RotateUp=
+Save=Ctrl+S
+SaveAs=Ctrl+Shift+S
+SelectAll=Ctrl+A
+ShowHideHiddenFiles=Ctrl+H
+ShowMenubar=
+ShowStatusbar=
+ShowToolbar=
+Spelling=
+SubstringCompletion=
+SwitchApplicationLanguage=
+TextCompletion=
+Undo=Ctrl+Z
+Up=
+WhatsThis=
+Zoom=
+ZoomIn=
+ZoomOut=
+
+[kaccess][Global Shortcuts]
+Toggle Screen Reader On and Off=Meta+Alt+S
+
+[kcm_touchpad][Global Shortcuts]
+Disable Touchpad=Touchpad Off
+Enable Touchpad=Touchpad On
+Toggle Touchpad=Meta+Ctrl+Zenkaku Hankaku; Touchpad Toggle
 
 [kitty.desktop][Global Shortcuts]
 _launch=Meta+Return
 
+[kmix][Global Shortcuts]
+decrease_microphone_volume=Microphone Volume Down
+decrease_volume=Volume Down
+decrease_volume_small=Shift+Volume Down
+increase_microphone_volume=Microphone Volume Up
+increase_volume=Volume Up
+increase_volume_small=Shift+Volume Up
+mic_mute=Meta+Volume Mute; Microphone Mute
+mute=Volume Mute
+
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Meta+Alt+L; Screensaver
+Lock Session=Screensaver; Meta+Alt+L
 Log Out=Ctrl+Alt+Del
 Log Out Without Confirmation=
 LogOut=
@@ -129,7 +240,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Meta+Q; Alt+F4
+Window Close=Alt+F4; Meta+Q
 Window Custom Quick Tile Bottom=
 Window Custom Quick Tile Left=
 Window Custom Quick Tile Right=
@@ -209,6 +320,16 @@ view_actual_size=
 view_zoom_in=
 view_zoom_out=
 
+[mediacontrol][Global Shortcuts]
+mediavolumedown=
+mediavolumeup=
+nextmedia=Media Next
+pausemedia=Media Pause
+playmedia=
+playpausemedia=Media Play
+previousmedia=Media Previous
+stopmedia=Media Stop
+
 [net.local.wallpaper-rofi.sh.desktop][Global Shortcuts]
 _launch=Meta+W
 
@@ -218,6 +339,42 @@ _launch=Meta+E
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
 _launch=Meta+D
+
+[org.kde.kscreen.desktop][Global Shortcuts]
+ShowOSD=
+
+[org.kde.plasma-systemmonitor.desktop][Global Shortcuts]
+_launch=Meta+Esc
+
+[org.kde.plasma.emojier.desktop][Global Shortcuts]
+_launch=Meta+Ctrl+Alt+Shift+Space; Meta+.
+
+[org.kde.spectacle.desktop][Global Shortcuts]
+ActiveWindowScreenShot=Meta+Print
+CurrentMonitorScreenShot=
+FullScreenScreenShot=Shift+Print
+OpenWithoutScreenshot=
+RecordRegion=
+RecordScreen=
+RecordWindow=
+RectangularRegionScreenShot=Meta+Shift+Print
+WindowUnderCursorScreenShot=Meta+Ctrl+Print
+_launch=
+
+[org_kde_powerdevil][Global Shortcuts]
+Decrease Keyboard Brightness=Keyboard Brightness Down
+Decrease Screen Brightness=Monitor Brightness Down
+Decrease Screen Brightness Small=Shift+Monitor Brightness Down
+Hibernate=Hibernate
+Increase Keyboard Brightness=Keyboard Brightness Up
+Increase Screen Brightness=Monitor Brightness Up
+Increase Screen Brightness Small=Shift+Monitor Brightness Up
+PowerDown=Power Down
+PowerOff=Power Off
+Sleep=Sleep
+Toggle Keyboard Backlight=Keyboard Light On/Off
+Turn Off Screen=
+powerProfile=Battery; Meta+B
 
 [plasmashell][Global Shortcuts]
 activate application launcher=Meta+Shift+D
@@ -247,3 +404,11 @@ stop current activity=
 switch to next activity=
 switch to previous activity=
 toggle do not disturb=
+
+[systemsettings.desktop][Global Shortcuts]
+_launch=Tools
+kcm-kscreen=
+kcm-lookandfeel=
+kcm-powerdevilprofilesconfig=
+kcm-screenlocker=
+kcm-users=

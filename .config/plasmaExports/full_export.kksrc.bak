@@ -7,7 +7,7 @@ _launch=Meta+Return
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+Alt+L
+Lock Session=Meta+Alt+L; Screensaver
 Log Out=Ctrl+Alt+Del
 Log Out Without Confirmation=
 LogOut=
@@ -45,7 +45,7 @@ KrohnkiteMonocleLayout=
 KrohnkiteNextLayout=Meta+Space
 KrohnkitePreviousLayout=Meta+Shift+Space
 KrohnkiteQuarterLayout=
-KrohnkiteRotate=Meta+Right
+KrohnkiteRotate=
 KrohnkiteRotatePart=
 KrohnkiteSetMaster=Meta+Shift+Return
 KrohnkiteShiftDown=Meta+Shift+J
@@ -117,7 +117,7 @@ Switch to Screen Above=
 Switch to Screen Below=
 Switch to Screen to the Left=
 Switch to Screen to the Right=
-Toggle Night Color=Meta+Ctrl+Shift+L
+Toggle Night Color=
 Toggle Window Raise/Lower=
 Walk Through Windows=
 Walk Through Windows (Reverse)=
@@ -173,7 +173,7 @@ Window Shade=
 Window Shrink Horizontal=
 Window Shrink Vertical=
 Window to Desktop 1=Meta+!
-Window to Desktop 10=Meta+=
+Window to Desktop 10=Meta+_
 Window to Desktop 11=
 Window to Desktop 12=
 Window to Desktop 13=
@@ -183,15 +183,15 @@ Window to Desktop 16=
 Window to Desktop 17=
 Window to Desktop 18=
 Window to Desktop 19=
-Window to Desktop 2=Meta+"
+Window to Desktop 2=Meta+@
 Window to Desktop 20=
-Window to Desktop 3=Meta+§
+Window to Desktop 3=Meta+#
 Window to Desktop 4=Meta+$
 Window to Desktop 5=Meta+%
-Window to Desktop 6=Meta+&
-Window to Desktop 7=Meta+/
-Window to Desktop 8=Meta+(
-Window to Desktop 9=Meta+)
+Window to Desktop 6=Meta+^
+Window to Desktop 7=Meta+&
+Window to Desktop 8=Meta+*
+Window to Desktop 9=Meta+(
 Window to Next Desktop=
 Window to Next Screen=
 Window to Previous Desktop=
@@ -212,6 +212,38 @@ view_zoom_out=
 [net.local.wallpaper-rofi.sh.desktop][Global Shortcuts]
 _launch=Meta+W
 
+[org.kde.dolphin.desktop][Global Shortcuts]
+_launch=Meta+E
+
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
 _launch=Meta+D
+
+[plasmashell][Global Shortcuts]
+activate application launcher=Meta+Shift+D
+activate task manager entry 1=
+activate task manager entry 10=
+activate task manager entry 2=
+activate task manager entry 3=
+activate task manager entry 4=
+activate task manager entry 5=
+activate task manager entry 6=
+activate task manager entry 7=
+activate task manager entry 8=
+activate task manager entry 9=
+clear-history=
+clipboard_action=
+cycle-panels=
+cycleNextAction=
+cyclePrevAction=
+manage activities=
+next activity=
+previous activity=
+repeat_action=
+show dashboard=
+show-barcode=
+show-on-mouse-pos=
+stop current activity=
+switch to next activity=
+switch to previous activity=
+toggle do not disturb=
