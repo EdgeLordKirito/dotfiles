@@ -2,8 +2,8 @@
 switch-to-activity-69bf0f9f-dd32-430a-a541-1737a6b96b6c=
 
 [Custom Commands][net.local.wallpaper-rofi.sh.desktop]
-Exec=/home/edgelordkirito/.local/bin/wallpaper-rofi.sh ~/Pictures/wallperpers
-Name=wallpaper-rofi
+Exec=~/.local/bin/wallpaper-rofi.sh ~/Pictures/wallpapers
+Name=rofi wallpaper
 
 [KDE Keyboard Layout Switcher][Global Shortcuts]
 Switch to Last-Used Keyboard Layout=
@@ -70,7 +70,7 @@ PrintPreview=
 Prior=
 Quit=
 Redo=Ctrl+Shift+Z
-Reload=F5; Refresh
+Reload=Refresh; F5
 RenameFile=
 Replace=Ctrl+R
 ReportBug=
@@ -101,7 +101,7 @@ Toggle Screen Reader On and Off=Meta+Alt+S
 [kcm_touchpad][Global Shortcuts]
 Disable Touchpad=Touchpad Off
 Enable Touchpad=Touchpad On
-Toggle Touchpad=Meta+Ctrl+Zenkaku Hankaku; Touchpad Toggle
+Toggle Touchpad=Touchpad Toggle; Meta+Ctrl+Zenkaku Hankaku
 
 [kitty.desktop][Global Shortcuts]
 _launch=Meta+Return
@@ -113,7 +113,7 @@ decrease_volume_small=Shift+Volume Down
 increase_microphone_volume=Microphone Volume Up
 increase_volume=Volume Up
 increase_volume_small=Shift+Volume Up
-mic_mute=Meta+Volume Mute; Microphone Mute
+mic_mute=Microphone Mute; Meta+Volume Mute
 mute=Volume Mute
 
 [ksmserver][Global Shortcuts]
@@ -347,7 +347,7 @@ ShowOSD=
 _launch=Meta+Esc
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
-_launch=Meta+Ctrl+Alt+Shift+Space; Meta+.
+_launch=Meta+.; Meta+Ctrl+Alt+Shift+Space
 
 [org.kde.spectacle.desktop][Global Shortcuts]
 ActiveWindowScreenShot=Meta+Print
@@ -374,7 +374,7 @@ PowerOff=Power Off
 Sleep=Sleep
 Toggle Keyboard Backlight=Keyboard Light On/Off
 Turn Off Screen=
-powerProfile=Battery; Meta+B
+powerProfile=Meta+B; Battery
 
 [plasmashell][Global Shortcuts]
 activate application launcher=Meta+Shift+D
