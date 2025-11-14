@@ -26,7 +26,6 @@ truncation_symbol = "…/"
 
 [dotnet]
 disabled = false
-symbol = "󰪮"
 
 [docker_context]
 symbol = " "
