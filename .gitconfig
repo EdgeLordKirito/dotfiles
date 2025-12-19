@@ -4,3 +4,5 @@
 [core]
 	autocrlf = input
 	eol = lf
+[alias]
+	graph = log --graph --oneline --decorate --all
