@@ -13,10 +13,10 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+# define aliases here
 alias ll='ls -alF'
 alias vim='nvim'
 alias try='echo "Testing aliaTesting alias"'
-
 
 eval "$(starship init zsh)"
 #End of File
