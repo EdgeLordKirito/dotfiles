@@ -18,5 +18,8 @@ alias ll='ls -alF'
 alias vim='nvim'
 alias try='echo "Testing aliaTesting alias"'
 
+#define ENV Vars
+export LESS='-S'
+
 eval "$(starship init zsh)"
 #End of File
