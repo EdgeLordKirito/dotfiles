@@ -19,7 +19,7 @@ alias vim='nvim'
 alias try='echo "Testing aliaTesting alias"'
 
 #define ENV Vars
-export LESS='-S'
+export LESS='-SFRm'
 
 eval "$(starship init zsh)"
 #End of File
