@@ -17,3 +17,6 @@
 
 # Kitty color configuration
 .config/kitty/color.conf
+
+# Private files
+*.private
